@@ -32,4 +32,4 @@ Passionate about creating functional solutions and exploring new technologies. A
 - [LinkedIn](https://www.linkedin.com/in/estebancanvaz/)
 - [Email](ecantovaz@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00B8D4&width=435&lines=%22Code+is+poetry+in+motion...%22++%E2%9C%A8%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00B8D4&width=435&lines=%22Code+is+poetry+in+motion...%22++%E2%9C%A8%F0%9F%92%BB)](https://git.io/typing-svg)
