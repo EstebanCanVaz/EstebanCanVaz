@@ -32,15 +32,9 @@ Passionate about creating functional solutions and exploring new technologies. A
 - [LinkedIn](https://www.linkedin.com/in/estebancanvaz/)
 - [Email](ecantovaz@gmail.com)
 
----
+*"Code is poetry in motion"* ✨
 
-```markdown
----
-
-```
-   _____           _      _____ _ _            
-  / ____|         | |    / ____| | |           
- | |     ___   ___| | __| (___ | | |_ ___  ___ 
- | |    / _ \ / __| |/ /\___ \| | __/ _ \/ __|
- | |___| (_) | (__|   < ____) | | ||  __/\__ \
-  \_____\___/ \___|_|\_\_____/|_|\__\___||___/
+<!-- Alternativas que puedes rotar manualmente: -->
+<!-- "Building dreams one line at a time" -->
+<!-- "Turning ideas into reality" -->
+<!-- "Creating digital magic" -->
