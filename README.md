@@ -32,9 +32,13 @@ Passionate about creating functional solutions and exploring new technologies. A
 - [LinkedIn](https://www.linkedin.com/in/estebancanvaz/)
 - [Email](ecantovaz@gmail.com)
 
-*"Code is poetry in motion"* ✨
+---
 
-<!-- Alternativas que puedes rotar manualmente: -->
-<!-- "Building dreams one line at a time" -->
-<!-- "Turning ideas into reality" -->
-<!-- "Creating digital magic" -->
+<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="30" font-family="monospace" font-size="16" fill="#ffffff">
+    <animate attributeName="opacity" values="0;1" dur="2s" repeatCount="indefinite"/>
+    Code is poetry in motion...
+  </text>
+</svg>
+
+*"Code is poetry in motion"* 💻
