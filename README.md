@@ -34,11 +34,17 @@ Passionate about creating functional solutions and exploring new technologies. A
 
 ---
 
+---
+
 <svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
   <text x="10" y="30" font-family="monospace" font-size="16" fill="#ffffff">
-    <animate attributeName="opacity" values="0;1" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="textLength" values="0;300" dur="3s" repeatCount="indefinite"/>
     Code is poetry in motion...
   </text>
+  <rect x="320" y="15" width="2" height="20" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0" dur="0.5s" repeatCount="indefinite"/>
+  </rect>
 </svg>
 
-*"Code is poetry in motion"* 💻
+*"Code is poetry in motion"* ✨
