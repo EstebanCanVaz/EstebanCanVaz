@@ -34,7 +34,13 @@ Passionate about creating functional solutions and exploring new technologies. A
 
 ---
 
-```javascript
-console.log("Code is poetry in motion..."); // ✨💻✨
+```markdown
+---
+
 ```
-```
+   _____           _      _____ _ _            
+  / ____|         | |    / ____| | |           
+ | |     ___   ___| | __| (___ | | |_ ___  ___ 
+ | |    / _ \ / __| |/ /\___ \| | __/ _ \/ __|
+ | |___| (_) | (__|   < ____) | | ||  __/\__ \
+  \_____\___/ \___|_|\_\_____/|_|\__\___||___/
