@@ -32,11 +32,7 @@ Passionate about creating functional solutions and exploring new technologies. A
 - [LinkedIn](https://www.linkedin.com/in/estebancanvaz/)
 - [Email](ecantovaz@gmail.com)
 
----
-
----
-
-<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
+[<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
   <text x="10" y="30" font-family="monospace" font-size="16" fill="#ffffff">
     <animate attributeName="opacity" values="0;1" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="textLength" values="0;300" dur="3s" repeatCount="indefinite"/>
@@ -47,4 +43,4 @@ Passionate about creating functional solutions and exploring new technologies. A
   </rect>
 </svg>
 
-*"Code is poetry in motion"* ✨
+*"Code is poetry in motion"* ✨](https://readme-typing-svg.demolab.com/demo/?weight=600&size=26&duration=3000&color=00B8D4&lines=%22Code+is+poetry+in+motion...%22++%E2%9C%A8%F0%9F%92%BB)
